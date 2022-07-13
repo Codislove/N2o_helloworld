@@ -14,7 +14,7 @@ http://localhost:8080
 
 Информации разделе [Начало работы](https://n2oapp.net/docs/guides/manual/getstarted) достаточно для запуска helloworld-приложения. Даже для тех, кто не знаком со spring-framework, как это было в моём случае. Просто изложенные инструкции нужно читать внимательно.
 
-Замечания:
+## Замечания:
 
 Сслыка [Кастомизация](https://n2oapp.net/docs/guides/manual/getstarted/customization) не рабочая
 
