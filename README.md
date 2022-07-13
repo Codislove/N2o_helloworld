@@ -7,7 +7,7 @@ mvn clean package
 
 java -jar target/myproject-1.0.jar
 
-далее в адресной строке браузера перейдите по ссылке:
+далее в браузера перейдите по ссылке:
 http://localhost:8080
 
 
